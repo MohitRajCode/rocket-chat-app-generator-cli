@@ -1,0 +1,6 @@
+{
+    "id": "helloapp",
+    "name": "HelloApp",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.0.0"
+}
